@@ -121,3 +121,41 @@ ID | Aluno | Nota
 1|Marcos|8,9
 2|Joana|8,5
 3|Erica|9,0
+
+--- 
+
+# Como criar comandos em código?
+
+Para colocar comandos em código, basta colocar o código entre 3 crases, como o exemplo abaixo:
+
+Não estou conseguindo entender o códugo abaixo em Python:
+
+``` 
+num = int(input("Digite um valor: "))
+if num % 2 == 0:
+    print(f"O valor {num} é PAR)
+else:
+    print(print(f"O valor {num} é ÍMPAR))
+```
+
+Será que alguém poderia me ajudar?
+
+# Como colocar Emoji?
+
+Para colocar um emoji é necessário colocar um sinal de dois pontos e o nome do emoji em seguida (todos emojis possuem nome).
+
+A lista de emojis pode ser consultada no repositório abaixo, através desse link: 
+
+(Link do repositório)[https://github.com/ikatyang/emoji-cheat-sheet]
+
+Exemplo de emoji:
+
+Título | Emoji
+---|---
+Monkey|:monkey:
+Hand|:hand:
+
+# 
+
+
+
