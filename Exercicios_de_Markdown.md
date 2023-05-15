@@ -107,3 +107,17 @@ Lista de checagem:
 - [x] Tarefa 1 (checada)
 - [ ] Tarefa 2
 - [ ] Tarefa 3
+
+---
+
+# Como criar tabelas?
+
+Para criar tabelas, basta colocar um pipe para separar as informações das colunas.
+
+Exemplo: 
+
+ID | Aluno | Nota
+---|---|---
+1|Marcos|8,9
+2|Joana|8,5
+3|Erica|9,0
