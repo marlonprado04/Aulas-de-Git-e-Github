@@ -155,7 +155,13 @@ Título | Emoji
 Monkey|:monkey:
 Hand|:hand:
 
-# 
+# Como fazer uma citação?
+
+Para fazer uma citação em linguagem markdown é necessário colocar um simbolo de maior que antes da frase.
+
+Exemplo:
+
+> Isso é uma citação em markdown
 
 
 
