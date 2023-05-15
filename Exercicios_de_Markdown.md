@@ -128,7 +128,7 @@ ID | Aluno | Nota
 
 Para colocar comandos em código, basta colocar o código entre 3 crases, como o exemplo abaixo:
 
-Não estou conseguindo entender o códugo abaixo em Python:
+Não estou conseguindo entender o código abaixo em Python:
 
 ``` 
 num = int(input("Digite um valor: "))
